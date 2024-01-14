@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'accueil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-image">
+        <!-- Ajoutez le chemin d'accès correct à votre image de logo -->
+        <img src="https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/BSPP.png?h=d1cb525d&itok=Q-wcmrTZ"Logo BSPP">
+    </div>
+    <div class="menu-container">
+        <h1>Bienvenue sur mon application</h1>
+        <ul>
+            <li><a href="#">J'ai besoin de</a></li>
+            <li><a href="#">Je souhaite signaler un problème</a></li>
+            <li><a href="#">Les notes</a></li>
+            <li><a href="#">Les fiches produits</a></li>
+            <li><a href="#">Hygiène post incendie</a></li>
+            <li><a href="#">Je suis réserviste</a></li>
+            <li><a href="#">Ce que vous devez savoir</a></li>
+            <!-- Ajoutez d'autres liens ici -->
+        </ul>
+    </div>
+</body>
+</html>
